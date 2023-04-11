@@ -9,7 +9,7 @@ Some things about me:
 - 📲 Some technologies/frameworks i've used professionally are React, Node.js, Express, MySQL.
 - 👨‍💻 I've been programming for 3 years
 - 👷‍♂️ 2 years worth of software developer experience.
-- 😅 2 internships so far.
+- 😅 I've done 2 internships so far.
 
 
 ## 🌐 Socials:
