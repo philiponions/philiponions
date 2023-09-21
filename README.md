@@ -5,11 +5,11 @@ I'm **Huey Gonzales** and I'm a software developer and computer science student 
 
 Some things about me:
 
-- 🏫 I’m currently in my 3rd year of university.
+- 🏫 I’m currently in my 4th year of university.
 - 📲 Some technologies/frameworks i've used professionally are React, Node.js, Express, MySQL.
 - 👨‍💻 I've been programming for 3 years
 - 👷‍♂️ 2 years worth of software developer experience.
-- 😅 I've done 2 internships so far.
+- 😅 I've done 3 internships so far.
 
 
 
