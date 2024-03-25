@@ -10,7 +10,7 @@ Some things about me:
 - 👨‍💻 I've been programming for 3 years
 - 👷‍♂️ 2 years worth of software developer experience.
 - 😅 I've done 3 internships so far.
-
+- 🎮 Trying out Game Development on the side
 
 
 ## 🌐 Socials:
