@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 
-I'm **Huey Gonzales** and I'm a software developer and computer science student at the University of Alberta
+I'm **Huey Gonzales** and I'm a software developer and computer science graduate at the University of Alberta
 
 Some things about me:
 
-- 🏫 I’m currently in my 4th year of university.
+- 🥳 Just graduated.
 - 📲 Some technologies/frameworks i've used professionally are React, Node.js, Express, MySQL.
-- 👨‍💻 I've been programming for 3 years
-- 👷‍♂️ 2 years worth of software developer experience.
-- 😅 I've done 3 internships so far.
-- 🎮 Trying out Game Development on the side
+- 👨‍💻 I've been programming for 4 years
+- 😅 I did 4 internships during my undergrad.
+- ⚙️ I was originally an Engineering student, but switched to Computer Science.
 
 
 ## 🌐 Socials:
