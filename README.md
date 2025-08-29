@@ -3,15 +3,6 @@
 
 I'm **Huey Gonzales** and I'm a software developer and computer science graduate at the University of Alberta
 
-Some things about me:
-
-- 🥳 Just graduated.
-- 📲 Some technologies/frameworks i've used professionally are React, Node.js, Express, MySQL.
-- 👨‍💻 I've been programming for 4 years
-- 😅 I did 4 internships during my undergrad.
-- ⚙️ I was originally an Engineering student, but switched to Computer Science.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huey-gonzales-30bab7228/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hueygonzales262) 
 
